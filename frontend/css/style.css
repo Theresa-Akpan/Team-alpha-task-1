@@ -123,7 +123,7 @@ button {
 
 /* Media Queries */
 
-@media(max-width: 780px) {
+@media(max-width: 110px) {
     .top-right, .top-left, .bottom-right, .bottom-left {
         width: 10em;
         height: 10em;
